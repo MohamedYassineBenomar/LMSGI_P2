@@ -1,3 +1,7 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
 h1  {
     text-align: center;
     font-weight: bold;
@@ -6,7 +10,7 @@ h1  {
 
 caption  {
     font-size: 25px;
-    text-align: center;
+  
     color: #EEC615;
 }
 .table1_titles {
@@ -15,8 +19,9 @@ caption  {
 }
 
 table {
-    width: 90%;margin: 0 auto;
-
+    width: 90%;
+    margin: 0 auto;
+    text-align:center;
 }
 table, th, td {
     border: 1px solid black;
@@ -24,23 +29,28 @@ table, th, td {
     
 }
 
+th {
+    padding: 30px;
+    font-size: 25px;
+}
+
 .content {
     border: 1px solid black;
     font-size: 20px;
     padding: 15px;
-    text-align: center;
+
 }
 
 .hores {
     
     font-size: 20px;
     padding: 10px;
-    text-align: center;
+    width: 180px;
 }
 
 #descans {
-
-    margin: center;
+    font-size: 20px;
+    padding: 15px;
 }
 
 .LMSGI{
