@@ -11,7 +11,7 @@ caption  {
 }
 .table1_titles {
 
-    background-color: aquamarine;
+    background-color: rgb(127, 255, 165);
 }
 
 table {
@@ -27,4 +27,38 @@ table, th, td {
 .content {
     border: 1px solid black;
     text-align: center;
+}
+
+#descans {
+
+    margin: center;
+}
+
+.LMSGI{
+ background-color: #FFC0CB;
+}
+
+.PED{
+    background-color: #5F9EA0;
+}
+
+.BD{
+    background-color: #FFF8DC;
+}
+
+.SI{
+    background-color: #FFFF00;
+}
+
+.IPOI {
+    background-color: #DC143C;
+}
+.DIW {
+    background-color: #FF7F50;
+}
+.TUT {
+    background-color: #6495ED;
+}
+.AN {
+    background-color: #FFD700;
 }
