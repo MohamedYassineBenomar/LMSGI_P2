@@ -26,6 +26,8 @@ table, th, td {
 
 .content {
     border: 1px solid black;
+    font-size: 20px;
+    padding: 15px;
     text-align: center;
 }
 
